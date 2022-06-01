@@ -1,2 +1,2 @@
 # Data-Science-Analysis-
-Different analysis or findings from data
+Hello, I have done mini data science projects from petroleum Engineering 
