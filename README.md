@@ -1,2 +1,2 @@
 # Data-Science-Analysis-
-Hello, I have done mini data science projects from petroleum Engineering 
+Hello, I have posted the python and data science projects from Petroleum Engineering. 
